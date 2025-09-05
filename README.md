@@ -19,24 +19,13 @@ All analysis is contained in a single Jupyter Notebook, covering:
 - Python – pandas, numpy, matplotlib, seaborn, scikit-learn
 - Jupyter Notebook for analysis and visualization.
   
-## 🚀 How to Run
+## 🚀 Project Structure
 
-1. Clone the repository:
 ``` bash
-git clone https://github.com/Kimaiyoo/hr_analytics.git
-cd hr_analytics
-```
-
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
+├── HR.ipynb # Jupyter notebook with EDA & modeling
+├── README.md
+├── requirements.txt
 ````
-
-3. Open Jupyter Notebook / Colab and run the notebooks step by step.
-
-
-## 📌 Notes
-The dataset is synthetic and designed for educational use.
 
 ## 👤 Author
 
